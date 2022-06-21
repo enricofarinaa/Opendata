@@ -1,0 +1,10 @@
+Libreria Pandas
+  Pandas es una librería de Python especializada en el manejo y análisis de estructuras de datos. 
+Libreria Numpy
+  NumPy es una biblioteca para el lenguaje de programación Python que da soporte para crear vectores y matrices grandes multidimensionales
+Libreria Matplotlib  
+  Matplotlib es una biblioteca para la generación de gráficos a partir de datos contenidos en listas o arrays en el lenguaje de programación Python y su extensión matemática NumPy.  
+Libreria Seaborn
+  Seaborn es una biblioteca de visualización de datos de Python basada en matplotlib. Proporciona una interfaz de alto nivel para dibujar datos estadísticos atractivos e informativos
+Beautifulsoup
+  Beautiful Soup es una biblioteca de Python para analizar documentos HTML. Esta biblioteca crea un árbol con todos los elementos del documento y puede ser utilizado para extraer información. 
